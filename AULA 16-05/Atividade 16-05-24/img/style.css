@@ -1,0 +1,21 @@
+#baner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: lightgrey; 
+}
+
+h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+    
